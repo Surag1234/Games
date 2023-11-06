@@ -31,6 +31,43 @@ The Pong game is a classic table tennis simulation where two players control pad
 4. Hit the ball with your paddle to score points.
 5. The game ends when one player fails to hit the ball, and the opposing player scores a point.
 
+# Car Crossing Game
+
+The "Car Crossing" game is an exciting and challenging turtle-based game where the player controls a car that must safely cross a busy road filled with moving cars. This game is implemented using the Turtle graphics library in Python.
+
+## Game Description
+
+In the "Car Crossing" game, your objective is to guide a car to the finish line while avoiding collisions with oncoming traffic. The player can control the car's movement using the "Up" arrow key. The game becomes progressively more challenging as the player advances through levels, with more cars appearing on the road.
+
+## Gameplay Instructions
+
+1. Run the game by executing the script in your Python environment.
+2. Control the player's car by pressing the "Up" arrow key to move it forward.
+3. Navigate the car to the finish line at the top of the screen.
+4. Avoid colliding with oncoming cars.
+5. As you reach the finish line, the game will become more challenging with faster and more cars on the road.
+6. The game ends when the player's car collides with any oncoming car.
+7. Your score and level are displayed on the screen.
+
+## Features
+
+- User-controlled car movement.
+- Multiple levels with increasing difficulty.
+- Score tracking to monitor your progress.
+- Game over message upon collision with a car.
+- Colorful and interactive graphics using the Turtle library.
+
+## How to Play
+
+1. Ensure you have Python and the Turtle library installed on your system.
+2. Run the script, and the game window will appear.
+3. Use the "Up" arrow key to control the car's movement.
+4. Try to cross the road and reach the finish line.
+5. Survive as long as possible while collecting points and advancing to higher levels.
+
+
+
+
 ## Dependencies
 
 Both games utilize the Pygame library. Make sure you have Pygame installed before running the games.
